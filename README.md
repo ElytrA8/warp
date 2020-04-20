@@ -11,8 +11,8 @@ WARP+ Bot Auto Invite
 ## Installation
 
 ```terminal
-$ git clone https://github.com/hunternblz/Warp-Bot.git
-$ cd Warp-Bot
+$ git clone https://github.com/ElytrA8/warp.git
+$ cd warp
 ```
 
 ## Usage
