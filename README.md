@@ -5,7 +5,7 @@ WARP+ Bot Auto Invite
 <p align="center">
   <a><br> SCREENSHOT </br></a>
   <br>
-  <img src="Screenshot.jpg" width="640" title="Screenshot" alt="Screenshot">
+  <img src="Screenshot_20200420-152145_1.1.1.1.png" width="640" title="Screenshot" alt="Screenshot">
 </p>
 
 ## Installation
