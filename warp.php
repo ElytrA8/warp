@@ -3,8 +3,8 @@ system("clear");
 echo "ID WARP : ";
 $id = trim(fgets(STDIN));
 echo "\n";
-for ($i=1; $i <= 999; $i++) {
-	sleep(18); // Recommend 18 second
+for ($i=1; $i <= 9999; $i++) {
+	sleep(7); // Recommend 18 second
 	$api = curl($id);
 	if ($api == "success") {
 		echo "$i.Success Send 1GB\n";
